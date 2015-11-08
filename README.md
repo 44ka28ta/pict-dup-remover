@@ -1,5 +1,5 @@
 # pict-dup-remover
-Detect duplicated pictures and remove it by using Bash Script.
+Detect duplicated pictures in the same directory and remove it by using Bash Script.
 
 Now, this program has only following features:
 
